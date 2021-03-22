@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="../img-alura.png">
+    <img src="https://ik.imagekit.io/vbw6dnlwtmt/img-alura_CmgZLYucE.png">
 </h1>
 
 # Índice
