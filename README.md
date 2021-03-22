@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="img-alura.png">
+    <img src="../img-alura.png">
 </h1>
 
 # Índice
@@ -9,13 +9,13 @@
 - [Como baixar o projeto](#-Como-baixar-o-projeto)
 - [Alguns comandos vistos na construção do projeto](#-Alguns-comandos-vistos-na-construção-do-projeto)
 
-## :pencil2: Sobre 
+## 📄 Sobre 
 
 Projeto em HTML desenvolvido para estudo e prática de comandos git; o projeto reúne alguns cursos oferecidos pela Alura em forma de lista, separados por seu assunto. 
 
 ---
 
-## Materiais utilizados
+## 📚 Materiais utilizados
 
 Cursos da Alura
 
@@ -29,7 +29,7 @@ Curso sobre README
 
 ---
 
-## Como baixar o projeto
+## 📦 Como baixar o projeto
 
 ```bash
 #Clonar o repositório
@@ -42,7 +42,9 @@ $ cd alura-git
 ```
 ---
 
-## Alguns comandos vistos na construção do projeto
+## 📁 Alguns comandos vistos na construção do projeto
+
+- [Lista de comandos git](https://docs.google.com/document/d/19Wh7Q6Edms9DOHxTbyOwc3SJm_PVHEbHnAOdfK2a1dw/edit?usp=sharing)
 
 ---
 Desenvolvido por: Maíssa Maniezzo de Oliveira
